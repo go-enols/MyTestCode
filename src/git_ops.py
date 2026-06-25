@@ -450,8 +450,8 @@ def _push_with_rebase(repo_dir: Path, branch: str) -> None:
 
 def configure_git_user(
     repo_dir: Path,
-    name: str = "auto-commit-bot",
-    email: str = "auto-commit-bot@users.noreply.github.com",
+    name: str = go-enols",
+    email: str = "2575169674@qq.com",
 ) -> None:
     """Set local git user.name and user.email for the repository.
 
