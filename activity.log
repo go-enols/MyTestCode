@@ -24,3 +24,4 @@
 [2026-07-01 09:00:13 UTC] rate limiter counters reset
 [2026-07-01 22:49:28 UTC] webhook delivery retry queue empty
 [2026-07-02 00:16:58 UTC] index rebuild finished successfully
+[2026-07-02 04:43:26 UTC] rate limit: 42 requests in last 60s
