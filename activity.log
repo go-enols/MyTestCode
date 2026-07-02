@@ -28,3 +28,4 @@
 [2026-07-02 13:20:09 UTC] job queue drained — 0 pending tasks
 [2026-07-02 15:54:07 UTC] feature flag evaluation cache warmed
 [2026-07-02 21:18:17 UTC] rate limit: 42 requests in last 60s
+[2026-07-02 22:40:17 UTC] background sync finished
