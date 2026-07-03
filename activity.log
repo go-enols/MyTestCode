@@ -30,3 +30,4 @@
 [2026-07-02 21:18:17 UTC] rate limit: 42 requests in last 60s
 [2026-07-02 22:40:17 UTC] background sync finished
 [2026-07-03 04:28:15 UTC] garbage collection cycle done
+[2026-07-03 07:47:25 UTC] database connection pool stats: 5/20 active
