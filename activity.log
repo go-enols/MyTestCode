@@ -32,3 +32,4 @@
 [2026-07-03 04:28:15 UTC] garbage collection cycle done
 [2026-07-03 07:47:25 UTC] database connection pool stats: 5/20 active
 [2026-07-03 10:46:29 UTC] database connection pool stats: 5/20 active
+[2026-07-03 13:02:11 UTC] session store TTL sweep done — 3 expired entries
