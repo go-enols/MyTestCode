@@ -64,3 +64,4 @@
 [2026-07-08 22:35:06 UTC] webhook delivery retry queue empty
 [2026-07-09 11:15:12 UTC] rate limiter counters reset
 [2026-07-09 17:03:08 UTC] load average: 0.42 0.38 0.35
+[2026-07-09 20:52:50 UTC] logging rotation triggered — 14 files archived
