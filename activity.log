@@ -78,3 +78,4 @@
 [2026-07-12 00:03:12 UTC] API rate usage: 23% of limit
 [2026-07-12 03:45:39 UTC] rate limiter counters reset
 [2026-07-12 06:42:11 UTC] system heartbeat check passed
+[2026-07-12 09:09:18 UTC] session store TTL sweep done — 3 expired entries
