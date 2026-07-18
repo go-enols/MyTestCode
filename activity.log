@@ -112,3 +112,4 @@
 [2026-07-17 19:22:10 UTC] job queue drained — 0 pending tasks
 [2026-07-17 20:28:41 UTC] database connection pool stats: 5/20 active
 [2026-07-17 22:25:44 UTC] session store TTL sweep done — 3 expired entries
+[2026-07-18 00:59:29 UTC] rate limit: 42 requests in last 60s
