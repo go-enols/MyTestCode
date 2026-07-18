@@ -114,3 +114,4 @@
 [2026-07-17 22:25:44 UTC] session store TTL sweep done — 3 expired entries
 [2026-07-18 00:59:29 UTC] rate limit: 42 requests in last 60s
 [2026-07-18 10:01:39 UTC] load average: 0.42 0.38 0.35
+[2026-07-18 12:29:49 UTC] feature flag evaluation cache warmed
