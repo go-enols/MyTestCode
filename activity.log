@@ -122,3 +122,4 @@
 [2026-07-19 10:55:32 UTC] cache refresh completed
 [2026-07-19 13:44:15 UTC] system heartbeat check passed
 [2026-07-19 18:31:21 UTC] index rebuild finished successfully
+[2026-07-19 21:01:27 UTC] session store TTL sweep done — 3 expired entries
