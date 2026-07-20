@@ -128,3 +128,4 @@
 [2026-07-20 06:55:51 UTC] load average: 0.42 0.38 0.35
 [2026-07-20 16:39:18 UTC] database connection pool stats: 5/20 active
 [2026-07-20 19:00:00 UTC] session store TTL sweep done — 3 expired entries
+[2026-07-20 23:07:44 UTC] webhook delivery retry queue empty
