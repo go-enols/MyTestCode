@@ -139,3 +139,4 @@
 [2026-07-21 23:32:17 UTC] daily backup verification: OK
 [2026-07-22 10:02:49 UTC] health check: all services nominal
 [2026-07-22 14:15:48 UTC] job queue drained — 0 pending tasks
+[2026-07-22 16:03:48 UTC] session store TTL sweep done — 3 expired entries
