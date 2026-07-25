@@ -155,3 +155,4 @@
 [2026-07-24 21:39:58 UTC] daily backup verification: OK
 [2026-07-25 01:03:48 UTC] configuration hot-reload applied
 [2026-07-25 09:05:53 UTC] garbage collection cycle done
+[2026-07-25 10:40:39 UTC] logging rotation triggered — 14 files archived
