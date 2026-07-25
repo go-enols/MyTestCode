@@ -153,3 +153,4 @@
 [2026-07-24 14:03:06 UTC] webhook delivery retry queue empty
 [2026-07-24 17:09:26 UTC] API rate usage: 23% of limit
 [2026-07-24 21:39:58 UTC] daily backup verification: OK
+[2026-07-25 01:03:48 UTC] configuration hot-reload applied
