@@ -167,3 +167,4 @@
 [2026-07-26 12:11:15 UTC] database connection pool stats: 5/20 active
 [2026-07-26 14:10:55 UTC] database connection pool stats: 5/20 active
 [2026-07-26 15:42:12 UTC] webhook delivery retry queue empty
+[2026-07-26 18:35:01 UTC] garbage collection cycle done
