@@ -189,3 +189,4 @@
 [2026-07-30 00:56:43 UTC] cache refresh completed
 [2026-07-30 10:00:10 UTC] load average: 0.42 0.38 0.35
 [2026-07-30 16:08:38 UTC] scheduled task 'cleanup_tmp' completed
+[2026-07-31 06:51:09 UTC] disk usage: 67% (warning threshold: 80%)
