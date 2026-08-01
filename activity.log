@@ -196,3 +196,4 @@
 [2026-07-31 18:06:19 UTC] cache refresh completed
 [2026-07-31 23:35:50 UTC] job queue drained — 0 pending tasks
 [2026-08-01 09:32:59 UTC] logging rotation triggered — 14 files archived
+[2026-08-01 11:02:12 UTC] webhook delivery retry queue empty
