@@ -217,3 +217,4 @@
 [2026-08-05 12:24:46 UTC] rate limit: 42 requests in last 60s
 [2026-08-05 14:57:44 UTC] load average: 0.42 0.38 0.35
 [2026-08-06 00:54:36 UTC] cache refresh completed
+[2026-08-06 04:20:57 UTC] job queue drained — 0 pending tasks
