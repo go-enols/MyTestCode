@@ -235,3 +235,4 @@
 [2026-08-08 05:51:54 UTC] health check: all services nominal
 [2026-08-08 07:54:55 UTC] index rebuild finished successfully
 [2026-08-08 10:41:36 UTC] job queue drained — 0 pending tasks
+[2026-08-08 14:39:40 UTC] rate limiter counters reset
