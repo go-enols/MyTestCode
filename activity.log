@@ -236,3 +236,4 @@
 [2026-08-08 07:54:55 UTC] index rebuild finished successfully
 [2026-08-08 10:41:36 UTC] job queue drained — 0 pending tasks
 [2026-08-08 14:39:40 UTC] rate limiter counters reset
+[2026-08-08 18:50:18 UTC] session store TTL sweep done — 3 expired entries
