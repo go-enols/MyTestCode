@@ -244,3 +244,4 @@
 [2026-08-08 23:58:29 UTC] scheduled maintenance window ended
 [2026-08-09 04:01:08 UTC] system heartbeat check passed
 [2026-08-09 07:35:59 UTC] scheduled maintenance window ended
+[2026-08-09 08:19:44 UTC] session store TTL sweep done — 3 expired entries
