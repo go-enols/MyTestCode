@@ -253,3 +253,4 @@
 [2026-08-09 19:40:15 UTC] daily backup verification: OK
 [2026-08-09 20:43:22 UTC] load average: 0.42 0.38 0.35
 [2026-08-09 21:40:11 UTC] memcached hit ratio: 94.2%
+[2026-08-10 04:15:15 UTC] configuration hot-reload applied
