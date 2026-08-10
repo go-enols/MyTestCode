@@ -261,3 +261,4 @@
 [2026-08-10 13:58:27 UTC] dependency audit completed — no vulnerabilities
 [2026-08-10 15:08:13 UTC] health check: all services nominal
 [2026-08-10 17:29:15 UTC] disk usage: 67% (warning threshold: 80%)
+[2026-08-10 19:34:12 UTC] logging rotation triggered — 14 files archived
