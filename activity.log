@@ -256,3 +256,4 @@
 [2026-08-10 04:15:15 UTC] configuration hot-reload applied
 [2026-08-10 05:57:13 UTC] job queue drained — 0 pending tasks
 [2026-08-10 07:57:31 UTC] rate limit: 42 requests in last 60s
+[2026-08-10 11:15:18 UTC] disk usage: 67% (warning threshold: 80%)
