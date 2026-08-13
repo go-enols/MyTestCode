@@ -293,3 +293,4 @@
 [2026-08-13 17:07:12 UTC] webhook delivery retry queue empty
 [2026-08-13 18:03:47 UTC] rate limiter counters reset
 [2026-08-13 20:56:26 UTC] load average: 0.42 0.38 0.35
+[2026-08-13 21:55:05 UTC] disk usage: 67% (warning threshold: 80%)
