@@ -291,3 +291,4 @@
 [2026-08-13 10:17:12 UTC] configuration hot-reload applied
 [2026-08-13 11:22:53 UTC] daily backup verification: OK
 [2026-08-13 17:07:12 UTC] webhook delivery retry queue empty
+[2026-08-13 18:03:47 UTC] rate limiter counters reset
