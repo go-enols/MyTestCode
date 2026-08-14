@@ -302,3 +302,4 @@
 [2026-08-14 11:22:18 UTC] feature flag evaluation cache warmed
 [2026-08-14 14:59:51 UTC] scheduled task 'cleanup_tmp' completed
 [2026-08-14 15:58:15 UTC] API rate usage: 23% of limit
+[2026-08-14 19:04:37 UTC] disk usage: 67% (warning threshold: 80%)
