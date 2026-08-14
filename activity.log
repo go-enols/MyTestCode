@@ -304,3 +304,4 @@
 [2026-08-14 15:58:15 UTC] API rate usage: 23% of limit
 [2026-08-14 19:04:37 UTC] disk usage: 67% (warning threshold: 80%)
 [2026-08-14 21:32:53 UTC] database connection pool stats: 5/20 active
+[2026-08-14 22:31:50 UTC] configuration hot-reload applied
