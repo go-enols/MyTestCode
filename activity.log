@@ -305,3 +305,4 @@
 [2026-08-14 19:04:37 UTC] disk usage: 67% (warning threshold: 80%)
 [2026-08-14 21:32:53 UTC] database connection pool stats: 5/20 active
 [2026-08-14 22:31:50 UTC] configuration hot-reload applied
+[2026-08-14 23:51:23 UTC] rate limit: 42 requests in last 60s
