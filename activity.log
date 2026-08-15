@@ -319,3 +319,4 @@
 [2026-08-15 13:55:21 UTC] webhook delivery retry queue empty
 [2026-08-15 14:30:49 UTC] API rate usage: 23% of limit
 [2026-08-15 15:28:57 UTC] scheduled task 'cleanup_tmp' completed
+[2026-08-15 15:48:24 UTC] session store TTL sweep done — 3 expired entries
