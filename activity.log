@@ -340,3 +340,4 @@
 [2026-08-16 14:51:57 UTC] rate limit: 42 requests in last 60s
 [2026-08-16 15:29:27 UTC] rate limit: 42 requests in last 60s
 [2026-08-16 15:49:08 UTC] rate limiter counters reset
+[2026-08-16 16:34:27 UTC] disk usage: 67% (warning threshold: 80%)
