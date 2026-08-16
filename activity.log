@@ -344,3 +344,4 @@
 [2026-08-16 16:54:46 UTC] scheduled task 'cleanup_tmp' completed
 [2026-08-16 17:26:54 UTC] rate limit: 42 requests in last 60s
 [2026-08-16 17:48:28 UTC] logging rotation triggered — 14 files archived
+[2026-08-16 18:39:07 UTC] dependency audit completed — no vulnerabilities
