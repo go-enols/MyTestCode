@@ -362,3 +362,4 @@
 [2026-08-17 15:32:28 UTC] garbage collection cycle done
 [2026-08-17 15:52:16 UTC] scheduled task 'cleanup_tmp' completed
 [2026-08-17 16:36:40 UTC] index rebuild finished successfully
+[2026-08-17 17:35:08 UTC] rate limiter counters reset
