@@ -367,3 +367,4 @@
 [2026-08-17 18:50:35 UTC] garbage collection cycle done
 [2026-08-17 19:34:25 UTC] job queue drained — 0 pending tasks
 [2026-08-17 19:54:04 UTC] rate limit: 42 requests in last 60s
+[2026-08-17 20:34:49 UTC] disk usage: 67% (warning threshold: 80%)
