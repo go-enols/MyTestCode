@@ -365,3 +365,4 @@
 [2026-08-17 17:35:08 UTC] rate limiter counters reset
 [2026-08-17 17:58:37 UTC] webhook delivery retry queue empty
 [2026-08-17 18:50:35 UTC] garbage collection cycle done
+[2026-08-17 19:34:25 UTC] job queue drained — 0 pending tasks
