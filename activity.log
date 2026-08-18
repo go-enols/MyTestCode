@@ -373,3 +373,4 @@
 [2026-08-17 23:30:08 UTC] job queue drained — 0 pending tasks
 [2026-08-18 01:43:36 UTC] system heartbeat check passed
 [2026-08-18 03:03:01 UTC] health check: all services nominal
+[2026-08-18 04:43:13 UTC] session store TTL sweep done — 3 expired entries
