@@ -375,3 +375,4 @@
 [2026-08-18 03:03:01 UTC] health check: all services nominal
 [2026-08-18 04:43:13 UTC] session store TTL sweep done — 3 expired entries
 [2026-08-18 05:36:32 UTC] disk usage: 67% (warning threshold: 80%)
+[2026-08-18 05:58:24 UTC] garbage collection cycle done
