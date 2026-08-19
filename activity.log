@@ -395,3 +395,4 @@
 [2026-08-19 07:46:52 UTC] garbage collection cycle done
 [2026-08-19 08:48:05 UTC] API rate usage: 23% of limit
 [2026-08-19 10:36:59 UTC] health check: all services nominal
+[2026-08-19 11:32:45 UTC] rate limit: 42 requests in last 60s
