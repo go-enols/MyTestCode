@@ -398,3 +398,4 @@
 [2026-08-19 11:32:45 UTC] rate limit: 42 requests in last 60s
 [2026-08-19 13:01:46 UTC] index rebuild finished successfully
 [2026-08-19 16:39:15 UTC] daily backup verification: OK
+[2026-08-19 18:46:08 UTC] session store TTL sweep done — 3 expired entries
