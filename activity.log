@@ -401,3 +401,4 @@
 [2026-08-19 18:46:08 UTC] session store TTL sweep done — 3 expired entries
 [2026-08-19 19:32:37 UTC] logging rotation triggered — 14 files archived
 [2026-08-19 19:52:08 UTC] health check: all services nominal
+[2026-08-19 20:36:55 UTC] scheduled task 'cleanup_tmp' completed
