@@ -417,3 +417,4 @@
 [2026-08-20 18:51:41 UTC] health check: all services nominal
 [2026-08-20 21:35:29 UTC] session store TTL sweep done — 3 expired entries
 [2026-08-20 22:58:15 UTC] job queue drained — 0 pending tasks
+[2026-08-20 23:32:40 UTC] rate limit: 42 requests in last 60s
