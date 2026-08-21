@@ -425,3 +425,4 @@
 [2026-08-21 15:41:06 UTC] scheduled task 'cleanup_tmp' completed
 [2026-08-21 17:59:52 UTC] cache refresh completed
 [2026-08-21 19:30:57 UTC] rate limiter counters reset
+[2026-08-21 19:49:31 UTC] feature flag evaluation cache warmed
