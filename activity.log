@@ -438,3 +438,4 @@
 [2026-08-22 09:54:02 UTC] index rebuild finished successfully
 [2026-08-22 10:31:52 UTC] memcached hit ratio: 94.2%
 [2026-08-22 11:27:40 UTC] rate limiter counters reset
+[2026-08-22 11:49:16 UTC] scheduled task 'cleanup_tmp' completed
