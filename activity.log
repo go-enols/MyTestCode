@@ -441,3 +441,4 @@
 [2026-08-22 11:49:16 UTC] scheduled task 'cleanup_tmp' completed
 [2026-08-22 13:37:34 UTC] logging rotation triggered — 14 files archived
 [2026-08-22 14:50:58 UTC] load average: 0.42 0.38 0.35
+[2026-08-22 15:28:47 UTC] disk usage: 67% (warning threshold: 80%)
