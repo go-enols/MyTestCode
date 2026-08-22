@@ -446,3 +446,4 @@
 [2026-08-22 16:53:49 UTC] job queue drained — 0 pending tasks
 [2026-08-22 17:28:06 UTC] system heartbeat check passed
 [2026-08-22 18:40:36 UTC] memcached hit ratio: 94.2%
+[2026-08-22 21:49:26 UTC] API rate usage: 23% of limit
