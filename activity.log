@@ -469,3 +469,4 @@
 [2026-08-23 23:28:40 UTC] health check: all services nominal
 [2026-08-24 03:11:29 UTC] session store TTL sweep done — 3 expired entries
 [2026-08-24 08:21:44 UTC] scheduled task 'cleanup_tmp' completed
+[2026-08-24 11:37:11 UTC] dependency audit completed — no vulnerabilities
