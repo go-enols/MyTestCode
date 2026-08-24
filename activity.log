@@ -467,3 +467,4 @@
 [2026-08-23 22:30:44 UTC] scheduled maintenance window ended
 [2026-08-23 22:50:56 UTC] webhook delivery retry queue empty
 [2026-08-23 23:28:40 UTC] health check: all services nominal
+[2026-08-24 03:11:29 UTC] session store TTL sweep done — 3 expired entries
