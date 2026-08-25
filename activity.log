@@ -481,3 +481,4 @@
 [2026-08-25 05:07:15 UTC] garbage collection cycle done
 [2026-08-25 06:00:11 UTC] configuration hot-reload applied
 [2026-08-25 07:00:30 UTC] webhook delivery retry queue empty
+[2026-08-25 07:50:45 UTC] scheduled task 'cleanup_tmp' completed
