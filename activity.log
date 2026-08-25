@@ -485,3 +485,4 @@
 [2026-08-25 09:44:16 UTC] cache refresh completed
 [2026-08-25 10:40:36 UTC] session store TTL sweep done — 3 expired entries
 [2026-08-25 14:54:13 UTC] logging rotation triggered — 14 files archived
+[2026-08-25 15:51:48 UTC] webhook delivery retry queue empty
