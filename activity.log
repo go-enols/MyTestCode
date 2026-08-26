@@ -495,3 +495,4 @@
 [2026-08-25 23:50:52 UTC] session store TTL sweep done — 3 expired entries
 [2026-08-26 06:02:15 UTC] load average: 0.42 0.38 0.35
 [2026-08-26 08:53:57 UTC] rate limit: 42 requests in last 60s
+[2026-08-26 11:59:59 UTC] index rebuild finished successfully
