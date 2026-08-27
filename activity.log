@@ -498,3 +498,4 @@
 [2026-08-26 11:59:59 UTC] index rebuild finished successfully
 [2026-08-26 16:53:01 UTC] daily backup verification: OK
 [2026-08-27 03:30:47 UTC] rate limit: 42 requests in last 60s
+[2026-08-27 14:33:11 UTC] job queue drained — 0 pending tasks
