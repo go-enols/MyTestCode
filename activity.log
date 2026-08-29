@@ -502,3 +502,4 @@
 [2026-08-27 23:55:00 UTC] index rebuild finished successfully
 [2026-08-29 03:18:03 UTC] rate limiter counters reset
 [2026-08-29 18:47:25 UTC] job queue drained — 0 pending tasks
+[2026-08-29 21:39:05 UTC] webhook delivery retry queue empty
