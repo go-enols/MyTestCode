@@ -503,3 +503,4 @@
 [2026-08-29 03:18:03 UTC] rate limiter counters reset
 [2026-08-29 18:47:25 UTC] job queue drained — 0 pending tasks
 [2026-08-29 21:39:05 UTC] webhook delivery retry queue empty
+[2026-08-30 00:06:04 UTC] background sync finished
