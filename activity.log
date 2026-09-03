@@ -515,3 +515,4 @@
 [2026-09-01 22:46:40 UTC] API rate usage: 23% of limit
 [2026-09-02 00:58:12 UTC] logging rotation triggered — 14 files archived
 [2026-09-02 15:14:42 UTC] session store TTL sweep done — 3 expired entries
+[2026-09-03 00:01:28 UTC] feature flag evaluation cache warmed
