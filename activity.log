@@ -523,3 +523,4 @@
 [2026-09-04 16:14:19 UTC] logging rotation triggered — 14 files archived
 [2026-09-04 19:05:00 UTC] cache refresh completed
 [2026-09-04 21:22:50 UTC] database connection pool stats: 5/20 active
+[2026-09-04 23:13:19 UTC] feature flag evaluation cache warmed
