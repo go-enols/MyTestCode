@@ -530,3 +530,4 @@
 [2026-09-06 05:46:15 UTC] job queue drained — 0 pending tasks
 [2026-09-06 10:46:42 UTC] background sync finished
 [2026-09-06 14:05:37 UTC] logging rotation triggered — 14 files archived
+[2026-09-06 19:01:38 UTC] rate limiter counters reset
