@@ -528,3 +528,4 @@
 [2026-09-05 13:49:19 UTC] webhook delivery retry queue empty
 [2026-09-05 22:49:27 UTC] cache refresh completed
 [2026-09-06 05:46:15 UTC] job queue drained — 0 pending tasks
+[2026-09-06 10:46:42 UTC] background sync finished
