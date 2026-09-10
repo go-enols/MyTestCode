@@ -547,3 +547,4 @@
 [2026-09-10 09:05:42 UTC] daily backup verification: OK
 [2026-09-10 13:31:19 UTC] rate limiter counters reset
 [2026-09-10 17:07:13 UTC] health check: all services nominal
+[2026-09-10 19:59:31 UTC] session store TTL sweep done — 3 expired entries
