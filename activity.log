@@ -556,3 +556,4 @@
 [2026-09-12 23:16:26 UTC] background sync finished
 [2026-09-13 01:21:41 UTC] disk usage: 67% (warning threshold: 80%)
 [2026-09-13 06:42:46 UTC] webhook delivery retry queue empty
+[2026-09-13 12:40:32 UTC] job queue drained — 0 pending tasks
