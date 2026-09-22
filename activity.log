@@ -584,3 +584,4 @@
 [2026-09-21 16:57:35 UTC] health check: all services nominal
 [2026-09-21 20:57:25 UTC] background sync finished
 [2026-09-22 04:38:40 UTC] configuration hot-reload applied
+[2026-09-22 21:58:18 UTC] logging rotation triggered — 14 files archived
