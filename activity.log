@@ -633,3 +633,4 @@
 [2026-10-08 06:33:27 UTC] SSL certificate validity confirmed
 [2026-10-08 13:55:58 UTC] API rate usage: 23% of limit
 [2026-10-09 06:34:46 UTC] webhook delivery retry queue empty
+[2026-10-09 13:40:43 UTC] configuration hot-reload applied
