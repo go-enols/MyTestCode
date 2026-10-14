@@ -647,3 +647,4 @@
 [2026-10-13 17:05:35 UTC] cache refresh completed
 [2026-10-14 01:04:53 UTC] scheduled task 'cleanup_tmp' completed
 [2026-10-14 06:02:55 UTC] session store TTL sweep done — 3 expired entries
+[2026-10-14 11:40:01 UTC] logging rotation triggered — 14 files archived
