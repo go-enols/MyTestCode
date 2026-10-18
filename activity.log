@@ -665,3 +665,4 @@
 [2026-10-18 01:27:08 UTC] session store TTL sweep done — 3 expired entries
 [2026-10-18 11:36:16 UTC] daily backup verification: OK
 [2026-10-18 14:46:23 UTC] job queue drained — 0 pending tasks
+[2026-10-18 17:59:23 UTC] webhook delivery retry queue empty
